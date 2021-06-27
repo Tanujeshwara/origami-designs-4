@@ -1,0 +1,46 @@
+h1{
+    color:brown;
+}
+
+.header{
+    background-color: cyan;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+}
+
+a:link{
+    color: white;
+    
+    }
+    
+    a:visited{
+    color: white;
+    
+    }
+
+.item:hover{
+   opacity: 1;
+}
+.item :hover img{
+opacity: 0.5;
+}
+
+
+.menu{
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #267926;
+
+}
+
+.menu a{
+    margin-left: 20px;
+
+}
